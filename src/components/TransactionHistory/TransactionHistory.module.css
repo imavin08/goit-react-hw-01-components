@@ -1,0 +1,28 @@
+.transactionHistory {
+  width: 600px;
+  margin: 0 auto;
+  border: 1px solid grey;
+}
+
+.head {
+  background-color: rgb(94, 94, 235);
+  height: 50px;
+}
+
+.title {
+  color: white;
+}
+
+.string {
+  text-align: center;
+  height: 50px;
+  border: 1px solid gray;
+}
+
+.item {
+  border: 1px solid grey;
+}
+
+tbody:nth-child(2n) {
+  background-color: white;
+}
